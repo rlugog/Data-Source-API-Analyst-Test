@@ -22,4 +22,18 @@ Authentication was handled via a classic GitHub token using headers:
 - `X-GitHub-Api-Version: 2022-11-28`
 
 ## 📂 Project Structure
+README.md
+├── Content/
+│ ├── github_api_script.ipynb
+│ ├── api_reference.md
+│ └── troubleshooting.md
+
+
+## 💡 Reflections
+This exercise allowed me to strengthen my understanding of RESTful APIs, practice GitHub data extraction, and reinforce error handling and pagination strategies. I chose Google Colab for flexibility and reproducibility.
+
+---
+
+*Prepared by Rodrigo Lugo – GitHub: [@rlugog](https://github.com/rlugog)*
+
 
